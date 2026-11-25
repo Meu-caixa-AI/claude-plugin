@@ -1,6 +1,7 @@
 {
   "name": "meu-caixa-ai",
   "owner": { "name": "Meu Caixa AI" },
+  "metadata": { "description": "Official Claude plugins for Meu Caixa AI." },
   "plugins": [
     {
       "name": "meu-caixa-ai",
