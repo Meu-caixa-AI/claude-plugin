@@ -2,8 +2,18 @@
   "name": "meu-caixa-ai",
   "version": "0.1.0",
   "description": "Record and report your Meu Caixa transactions, and import credit card invoices, from Claude.",
-  "author": { "name": "Meu Caixa AI" },
+  "author": {
+    "name": "Meu Caixa AI"
+  },
   "homepage": "https://meucaixa.ai",
   "repository": "https://github.com/Meu-caixa-AI/claude-plugin",
-  "keywords": ["finance", "transactions", "credit card", "invoice", "mcp"]
+  "keywords": [
+    "finance",
+    "transactions",
+    "credit card",
+    "invoice",
+    "mcp"
+  ],
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png"
 }

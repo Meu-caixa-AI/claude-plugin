@@ -1,4 +1,4 @@
-<p align="center"><img src="plugins/meu-caixa-ai/assets/logo.jpg" alt="Meu Caixa AI" width="160"></p>
+<p align="center"><img src="plugins/meu-caixa-ai/.claude-plugin/icon.png" alt="Meu Caixa AI" width="160"></p>
 
 # Meu Caixa AI plugin for Claude
 
@@ -19,8 +19,11 @@ Use your [Meu Caixa](https://meucaixa.ai) account from Claude.
 ```
 .claude-plugin/marketplace.json
 plugins/meu-caixa-ai/
-├── .claude-plugin/plugin.json
+├── .claude-plugin/{plugin.json, icon.png}
 ├── .mcp.json
-├── assets/logo.jpg
 └── skills/importar-fatura/SKILL.md
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
