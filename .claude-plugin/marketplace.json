@@ -1,0 +1,11 @@
+{
+  "name": "meu-caixa-ai",
+  "owner": { "name": "Meu Caixa AI" },
+  "plugins": [
+    {
+      "name": "meu-caixa-ai",
+      "source": "./plugins/meu-caixa-ai",
+      "description": "Record and report your Meu Caixa transactions, and import credit card invoices, from Claude."
+    }
+  ]
+}

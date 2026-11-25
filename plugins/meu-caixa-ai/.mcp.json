@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "meu-caixa": {
+      "type": "http",
+      "url": "https://mcp.meucaixa.ai/mcp"
+    }
+  }
+}
